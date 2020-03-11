@@ -3,6 +3,7 @@ data = [
         "creative_writing": {
             "name": "Creative writing",
             "description": `Creative writing is an art of sorts - the art of making things up. It's writing done in a way that is not academic or technical but still attracts an audience. Though the definition is rather loose, creative writing can for the most part be considered any writing that is original and self-expressive. A news article, for example, cannot be considered creative writing because its main goal is to present facts and not to express the feelings of the writer. While a news article can be entertaining, its main purpose is to present the facts.
+                            <br/><br/>Registration Fee: Rs 30 per person.
                             <br/><br/>Student Coordinator:						
                             <br/>&nbsp○ Partho Malakar  8910508026					
                             <br/>&nbsp○ Rupesh Pal  9126364660
@@ -24,6 +25,7 @@ data = [
             "name": "Wordective",
             "description": `Are you in the list of people who twitch their eyes when they don’t see a proper noun capitalized? Does  the internet lingo annoy you? Do you enjoy playing Antakshari with WORDS? If all the answers to the above questions are YES, then your search ends here. Wordective is a fun event filled with exciting rounds for you to discover some neoteric words! 
                             <br/>Discovery of the new is no race, let the words create a trace.
+                            <br/><br/>Registration Fee: Rs 30 per person.
                             <br/><br/>Student Coordinators
                             <br/>&nbsp○	Shreyasi Ghosh  8017741292
                             <br/>&nbsp○ Ashmita Kumari  9661323488
@@ -53,6 +55,7 @@ data = [
         "graffiti": {
             "name": "Graffiti",
             "description": `Graffiti is an art form which conveys some message or expression. This art form originated in the late 1960's. Graffiti has been found on uncovered ancient Egyptian monuments. Graffiti signifies to different wall writing ranging from cave paintings to any message that is scratched on walls. There are various forms of graffiti. Modern graffiti involves spray paintings on walls or canvas.
+            <br/><br/>Registration Fee: Rs 40 per person.
                             <br/><br/>Student Coordinators
                             <br/>&nbsp○	Sussweta Sen  9748353486
                             <br/>&nbsp○ Tapanjyoti Majumder  7602527565 
@@ -74,6 +77,7 @@ data = [
                             minds with your words. If out-talking and out-thinking people is what you're good at, this
                             is the choice you need to make! We give you the moot, you give us your voice!
                             <br/>Come join us and let your voice soar, roar and explore the possiblites that await !
+                            <br/><br/>Registration Fee: Rs 30 per person.
                             <br/><br/>Student coordinators:
                             <br/>&nbsp○	Avantika Mishra  8337098693
                             <br/>&nbsp○	Saronee Das  8420982957
@@ -99,6 +103,7 @@ data = [
         "jam": {
             "name": "Just a minute",
             "description": `If you are passionate about public speaking and dare to express your views, JUST A MINUTE is your event. Here, we provide you an opportunity to speak your heart out. Just select a chit and you get the chance to present your ideas to the audience on the topic provided, which may be anything from your favourite movie to politics, from your first love to worst nightmare. 
+            <br/><br/>Registration Fee: Rs 30 per person.
                             <br/><br/>Student coordinator:
                             <br/>&nbsp○	Abhishikta Das  8584965310
                             <br/>&nbsp○	Abhishikta Das  9163199429
@@ -120,6 +125,7 @@ data = [
             "description": `Not   all   treasure   is   silver   and   gold,   mate!
                             <br/>In your otherwise boring lives, we're here to getting you fine lot, an adventurous jaunt.
                             <br/>Whether you win or lose is another story that will perish, but the journey and it's memories are the treasure thy shall always cherish.
+                            <br/><br/>Registration Fee: Rs 30 per person.
                             <br/><br/>Student Co-ordinators:
                             <br/>&nbsp○ Sourav Mohanty  6289150418   
                             <br/>&nbsp○ Arindam Dey  9874771469
@@ -140,6 +146,7 @@ data = [
         "skit": {
             "name": "Skit",
             "description": `A SKIT is a short comedy sketch or piece of humorous writing, especially a parody.
+            <br/><br/>Registration Fee: Rs 30 per person.
                        <br/><br/>Student Co-ordinators:
                        <br/>&nbsp○ Anushka Sonthalia  9748857570
                        <br/>&nbsp○ Pawan Kumar Sufi  7903062907
@@ -160,6 +167,7 @@ data = [
                             <br/>Here you can showcase your own creativity, innovation by providing dramatic phrase that will sum up the tone and premise of an audio or visual product.
                             <br/>None of us can forget the classic taglines like "[nirma ka slogan]" even if we have never used nirma in our lives! Such is the power of a catchy tagline. 
                             <br/>Presenting an out of box event which tests your wit, Jingle Mingle.
+                            <br/><br/>Registration Fee: Rs 30 per person.
                             <br/><br/>Student Coordinators:
                             <br/>&nbsp○ Ruchika Saraogi  9477262855
                             <br/>&nbsp○ Adrija Brahmachary  9831852777
