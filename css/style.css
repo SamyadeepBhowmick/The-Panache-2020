@@ -60,7 +60,7 @@ h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: #0e1b4d;
+  color: #000;
 }
 
 .main-page {
@@ -154,9 +154,9 @@ h6 {
   text-align: center;
   padding: 0;
   margin: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
-  color: var(--faded-blue);
+  color: #000;
 }
 
 .section-with-bg {
@@ -571,7 +571,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #FF6000;
+  color: #000000;
 }
 
 #intro p {
@@ -1198,8 +1198,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Testimonials Section
 --------------------------------*/
 #testimonials .testimonials-content {
-  box-shadow: 0 0 35px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 60px rgba(0, 0, 0, 0.6);
   padding: 49px 20px;
+  background: rgb(251,220,63);
+  background: radial-gradient(circle, rgba(251,220,63,1) 0%, rgba(252,174,70,0.7903536414565826) 100%);
 }
 
 #testimonials .testimonials-content::before {
@@ -2355,6 +2357,11 @@ h2{
 
 @media (max-width: 767px) {
 
+  .modal1_name{
+    /* padding-top: 6px; */
+    padding-right: 10px;
+  }
+
   .register{
       padding: 0px 8px 8px 8px!important;
   }
@@ -2371,7 +2378,7 @@ h2{
   }
   .close-button{
       cursor: pointer;
-      padding-top: 8px;
+      /* padding-top: 8px; */
       padding-right: 4px;
   }
 
@@ -2391,7 +2398,7 @@ h2{
 
   .modal1-content{
       position: absolute;
-      top: 10%;
+      top: 15%;
       left: 10%;
       /* transform: translate(50%, 50%); */
       background-color: white;

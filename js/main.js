@@ -152,22 +152,22 @@ jQuery(document).ready(function( $ ) {
     }
   });
 
-  $('.owl-carousel .developers').owlCarousel({
-    items: 3,
-    loop: false,
-    margin: 30,
-    dots: false,
-    responsiveClass: true,
-    responsive: {
+  // $('.owl-carousel .developers').owlCarousel({
+  //   items: 3,
+  //   loop: false,
+  //   margin: 30,
+  //   dots: false,
+  //   responsiveClass: true,
+  //   responsive: {
 
-      320: { items: 1},
-      480: { items: 2},
-      600: { items: 2},
-      767: { items: 3},
-      768: { items: 3},
-      992: { items: 3}
-    }
-  });
+  //     320: { items: 1},
+  //     480: { items: 2},
+  //     600: { items: 2},
+  //     767: { items: 3},
+  //     768: { items: 3},
+  //     992: { items: 3}
+  //   }
+  // });
 
   // Buy tickets select the ticket type on click
   $('#buy-ticket-modal').on('show.bs.modal', function (event) {
